@@ -1,4 +1,4 @@
-# 🔐 Steganography Using ASCII Technique
+# 🔐 Steganography- Hiding Information in the Image( Using ASCII Technique)
 
 This project implements a basic form of **image steganography** where a **text message is securely hidden within an image** by encoding the ASCII values of characters into the pixel values of the image. The encryption technique is simple XOR-based, and this solution demonstrates how digital images can be used for secure message transmission.
 
@@ -53,10 +53,16 @@ In a digital world where privacy and security are paramount, simply encrypting a
 ## 🧪 Sample Output
 
 ##Original Image
+
+
 ![Image](https://github.com/user-attachments/assets/ae15283c-4610-4112-be60-89a5408265c0)
+
+
 ##Encrypted Image
+
+
 ![Image](https://github.com/user-attachments/assets/117d0eff-18c6-4af6-88f3-6e3290ddb13f)
----
+
 
 ---
 
